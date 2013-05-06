@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
  */
-
+// 
 package com.aphidmobile.flip;
 
 import com.aphidmobile.utils.AphidLog;
@@ -28,6 +28,7 @@ import static com.aphidmobile.flip.FlipRenderer.*;
 import static com.aphidmobile.utils.TextureUtils.*;
 import static javax.microedition.khronos.opengles.GL10.*;
 
+// ²é¿´
 public class Card {
 	public static final int AXIS_TOP = 0;
 	public static final int AXIS_BOTTOM = 1;
